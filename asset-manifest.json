@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dailyrophet/static/css/main.9663c1f0.chunk.css",
+    "main.js": "/dailyrophet/static/js/main.f4426e35.chunk.js",
+    "main.js.map": "/dailyrophet/static/js/main.f4426e35.chunk.js.map",
+    "runtime-main.js": "/dailyrophet/static/js/runtime-main.14a9f4f2.js",
+    "runtime-main.js.map": "/dailyrophet/static/js/runtime-main.14a9f4f2.js.map",
+    "static/css/2.27dd871e.chunk.css": "/dailyrophet/static/css/2.27dd871e.chunk.css",
+    "static/js/2.6e9671a1.chunk.js": "/dailyrophet/static/js/2.6e9671a1.chunk.js",
+    "static/js/2.6e9671a1.chunk.js.map": "/dailyrophet/static/js/2.6e9671a1.chunk.js.map",
+    "index.html": "/dailyrophet/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/dailyrophet/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.9663c1f0.chunk.css.map": "/dailyrophet/static/css/main.9663c1f0.chunk.css.map",
+    "static/js/2.6e9671a1.chunk.js.LICENSE.txt": "/dailyrophet/static/js/2.6e9671a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a9f4f2.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.6e9671a1.chunk.js",
+    "static/css/main.9663c1f0.chunk.css",
+    "static/js/main.f4426e35.chunk.js"
+  ]
+}
